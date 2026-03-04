@@ -75,7 +75,7 @@ paru -S archvault
 
 ```bash
 git clone https://github.com/LeonLionHeart/ArchVault
-cd archvault
+cd ArchVault
 makepkg -si
 ```
 
