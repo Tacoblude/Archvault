@@ -74,7 +74,7 @@ paru -S archvault
 ### Manual Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/archvault.git
+git clone https://github.com/LeonLionHeart/ArchVault
 cd archvault
 makepkg -si
 ```
